@@ -1,0 +1,19 @@
+
+
+.home-mobile-container {
+    position: relative;
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.home-mobile-main {
+    height: 90vh;
+    width: 100%;
+    background-image: url('../images/home-background.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: 0 0;
+}

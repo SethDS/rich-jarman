@@ -1,0 +1,24 @@
+{
+  "name": "rich-jarman",
+  "version": "1.0.0",
+  "description": "Elect Rich Jarman for Utah County Commissioner",
+  "main": "./server/server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SethDS/rich-jarman.git"
+  },
+  "author": "Seth Sutherland",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/SethDS/rich-jarman/issues"
+  },
+  "homepage": "https://github.com/SethDS/rich-jarman#readme",
+  "devDependencies": {
+    "body-parser": "^1.18.2",
+    "express": "^4.16.2",
+    "nodemon": "^1.15.1"
+  }
+}

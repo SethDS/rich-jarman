@@ -1,0 +1,32 @@
+body {
+    margin: 0;
+    padding: 0;
+}
+
+.name {
+    font-family: 'Raleway', sans-serif;
+    color: rgba(6, 16, 33, 1);
+}
+
+.hamburger-menu {
+    position: absolute;
+    right: 25px;
+    height: 25px;
+    width: 50px;
+}
+.ham-patty {
+    position: absolute;
+    height: 2px;
+    width: 100%;
+    background-color: rgba(6,16,33,1);
+}
+.patty-one {
+    top: 0;
+}
+.patty-two {
+    top: 50%;
+    transform: translate(0%,-50%);
+}
+.patty-three {
+    bottom: 0;
+}
